@@ -298,6 +298,7 @@ body {
   height: 3em; }
 
 .reveal .hosts .host {
+  vertical-align: top;
   width: 6em;
   display: inline-block;
   text-align: center;

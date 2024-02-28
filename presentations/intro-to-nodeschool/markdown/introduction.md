@@ -1,6 +1,6 @@
 ### Welcome to NodeSchool Amsterdam
 <img src="images/nodeschool-logo.png" style="border: 0; box-shadow: none; ">
-## Workshop #18
+## Workshop #23
 
 
 ### NodeSchool?
@@ -24,16 +24,11 @@ Note:
 		<span>Anne</span>
 		<i class="twitter">@anneklapwijk</i>
 	</a>
-	<a class="host">
+	<!--<a class="host">
 		<img src="https://avatars1.githubusercontent.com/u/803178?v=3&s=400">
 		<span>Rick</span>
 		<i class="twitter">@rickheere</i>
-	</a>
-	<!-- <a class="host">
-		<img src="https://avatars2.githubusercontent.com/u/2011351?v=3&s=460">
-		<span>Alex</span>
-		<i class="twitter">@alextes</i>
-	</a> -->
+	</a>-->
 	<!-- <a class="host">
 		<img src="https://avatars3.githubusercontent.com/u/944406?v=3&s=460">
 		<span>Titus</span>
@@ -64,11 +59,11 @@ Note:
 		<span>Sannie</span>
 		<i class="twitter">@sanniekwakman</i>
 	</a> -->
-	<!-- <a class="host">
+	<a class="host">
 		<img src="https://avatars0.githubusercontent.com/u/1814479?v=3&s=400">
 		<span>JP</span>
 		<i class="twitter">@jp10k</i>
-	</a> -->
+	</a>
 	<!-- <a class="host">
 		<img src="https://avatars0.githubusercontent.com/u/5583336?v=4&s=460">
 		<span>Mike</span>
@@ -94,16 +89,32 @@ Note:
 		<span>Stefan</span>
 		<i class="twitter">@stefanmirck</i>
 	</a>
+	<a class="host">
+		<img src="https://avatars2.githubusercontent.com/u/2011351?v=3&s=460">
+		<span>Alex</span>
+		<i class="twitter">@alextes</i>
+	</a>
+	<a class="host">
+		<img src="https://avatars.githubusercontent.com/u/4638332?v=4">
+		<span>Carmen</span>
+		<i class="twitter"> </i>
+	</a>
+	<a class="host">
+		<img src="https://lh3.googleusercontent.com/A6Ko--O7UM3SRQ0XxlXBHVehZQx4W5HwaRtPT_B53zE68H7wQOGtNlnz7Gau3MYYgut4E1o88LnRrkmoASG3-SiFFuhLcg=s480-rj-v1">
+		<span>Merwin</span>
+		<i class="twitter"> </i>
+	</a>
 </div>
 
 
 ## Our Sponsor
 
 
-<img src="images/info.nl.png" width="600" class="logo">
+<img src="https://logo.q42.com/q42-logo-black.svg" height="600" class="logo">
 
 Note:
-- Info.nl: awesome location, nutritious drinks and all the info you need
+- Q42: builds digital products that make people's lives smarter, better and more fun. 
+- With over 80 software engineers, Q invents and creates apps, websites, connected devices, AI applications and more.
 
 
 ## Code of Conduct

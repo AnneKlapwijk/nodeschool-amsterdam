@@ -26,32 +26,32 @@ Note:
 
 If you want to learn some basic programming skills using JavaScript and Node.js, we recommend you start with one of these workshoppers:
 
-<pre><code>$ npm install -g javascripting
+<pre><code>
+$ npm install -g javascripting
 
 $ npm install -g learnyounode
 
-$ npm install -g how-to-npm
-
-$ npm install -g scope-chains-closures
-
-$ npm install -g git-it
 </code></pre>
+
+Note:
+- We have tested these workshoppers on Node LTS (MacOS and Windows) and they are great for beginners.
+- javascripting: learn the basics of JavaScript
+- learnyounode: learn the basics of Node.js
 
 
 ## Recommended electives
 
-If you want to challenge yourself by selecting an elective, we recommend the following workshoppers:
+If you want to challenge yourself by selecting an elective, we recommend the following workshopper:
 
-<pre><code>$ npm install -g planetproto
+<pre><code>
+$ npm install -g functional-javascript-workshop
 
-$ npm install -g count-to-6
-
-$ npm install -g promise-it-wont-hurt
-
-$ npm install -g lololodash
-
-$ npm install -g expressworks
 </code></pre>
+
+Note:
+- Also tested on Node LTS (MacOS and Windows)
+- This workshoppers is great for people who already have some experience with JavaScript
+- The challenges get increasingly difficult; interesting trampoline challenge for example
 
 
 ## 💀 electives
@@ -64,9 +64,12 @@ $ npm install -g esnext-generation
 
 $ npm install -g bacon-love
 
-$ npm install -g goingnative</code></pre>
+$ npm install -g shader-school</code></pre>
 
 For a list of all electives, visit:<br><a href="http://nodeschool.io/#workshopper-list">http://nodeschool.io/#workshopper-list</a>
+
+Note:
+- We haven't tested these workshoppers, so we can't guarantee they work on all systems / Node versions
 
 
 ## How to get started
